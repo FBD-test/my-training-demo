@@ -44,7 +44,7 @@ citation:
   abstract: "Selling paper is very important for paper stuff. You will learn how to sell paper and that is a nice thing to do."
   version: 1.0.0
   doi: 10.5070/zenodo.123
-  date-released: "1970"
+  date-released: "2023"
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
   type: generic
@@ -52,4 +52,5 @@ citation:
     - "paper"
     - "selling"
     - "books"
+    - "reading"
   repository: "https://github.com/FBD-test/my-training-demo"

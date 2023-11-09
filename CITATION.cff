@@ -1,20 +1,22 @@
 cff-version: 1.2.0
-message: "If you use these learning materials, please cite it as below."
+message: If you use these learning materials, please cite it as below.
 authors:
   - family-names: Scott
     given-names: Michael
     orcid: https://orcid.org/1234-5678-9101-1121
     affiliation: Dunder Mifflin
-title: "How to sell paper"
-abstract: "Selling paper is very important for paper stuff. You will learn how to sell paper and that is a nice thing to do."
+title: How to sell paper
+abstract: >-
+  Selling paper is very important for paper stuff. You will learn how to sell
+  paper and that is a nice thing to do.
 version: 1.0.0
-doi: 10.5070/zenodo.123
-date-released: "2023-11-09"
+doi: 10.5281/zenodo.10089146
+date-released: '2023-11-09'
 license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license-url: https://creativecommons.org/licenses/by/4.0/legalcode.txt
 keywords:
-  - "paper"
-  - "selling"
-  - "books"
-  - "reading"
-repository: "https://github.com/FBD-test/my-training-demo"
+  - paper
+  - selling
+  - books
+  - reading
+repository: https://github.com/FBD-test/my-training-demo

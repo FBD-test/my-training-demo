@@ -43,14 +43,14 @@ citation:
   title: "How to sell paper"
   abstract: "Selling paper is very important for paper stuff. You will learn how to sell paper and that is a nice thing to do."
   version: 1.0.0
-  doi: 10.5070/zenodo.123
+  doi: 10.5281/zenodo.10089146
   date-released: "2023"
   license: CC-BY-4.0
   license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
   type: generic
   keywords:
-    - "paper"
-    - "selling"
-    - "books"
-    - "reading"
+    - paper
+    - selling
+    - books
+    - reading
   repository: "https://github.com/FBD-test/my-training-demo"
